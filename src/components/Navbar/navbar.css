@@ -1,0 +1,29 @@
+.logo{
+    position: relative;
+  
+}
+input{
+    text-align: right;
+}
+
+.logo span:first-child{
+    color: white;
+    transform: rotate(45deg);
+    
+}
+.radius{
+  border-radius: 50%;
+}
+input{
+    width: 100%;
+    border-radius: 10px;
+}
+i{
+    color: black;
+    position: relative;
+    padding: 2px;
+    right: -25px;
+    border: none;
+    outline: none;
+  
+}
